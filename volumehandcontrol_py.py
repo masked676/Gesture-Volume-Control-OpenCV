@@ -38,8 +38,7 @@ maxVol=volRange[1]
 vol=0
 volBar=400
 volPer=0
-area=0
-colorVol=(255,0,0)
+
 
 while True:
   success,img=cap.read()
